@@ -1,2 +1,6 @@
 New Feature 1
+<<<<<<< HEAD
 New Feature 1
+=======
+New Feature 1.1
+>>>>>>> feature-f1
